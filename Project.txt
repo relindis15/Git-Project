@@ -1,0 +1,166 @@
+
+A compound of development (Dev) and operations (Ops), DevOps is the union of people, process, and technology to continually provide value to customers.
+
+What does DevOps mean for teams? DevOps enables formerly siloed roles—development, IT operations, quality engineering, and security—to coordinate and collaborate to produce better, more reliable products. By adopting a DevOps culture along with DevOps practices and tools, teams gain the ability to better respond to customer needs, increase confidence in the applications they build, and achieve business goals faster.
+
+The benefits of DevOps
+Teams that adopt DevOps culture, practices, and tools become high-performing, building better products faster for greater customer satisfaction. This improved collaboration and productivity is also integral to achieving business goals like these:
+
+
+Accelerating time to market
+
+
+Adapting to the market and competition
+
+
+Maintaining system stability and reliability
+
+
+Improving the mean time to recovery
+
+DevOps and the application lifecycle
+DevOps influences the application lifecycle throughout its plan, develop, deliver, and operate phases. Each phase relies on the others, and the phases are not role-specific. In a true DevOps culture, each role is involved in each phase to some extent.
+
+
+Plan
+In the plan phase, DevOps teams ideate, define, and describe features and capabilities of the applications and systems they are building. They track progress at low and high levels of granularity—from single-product tasks to tasks that span portfolios of multiple products. Creating backlogs, tracking bugs, managing agile software development with Scrum, using Kanban boards, and visualizing progress with dashboards are some of the ways DevOps teams plan with agility and visibility.
+
+Develop
+The develop phase includes all aspects of coding—writing, testing, reviewing, and the integration of code by team members—as well as building that code into build artifacts that can be deployed into various environments. DevOps teams seek to innovate rapidly without sacrificing quality, stability, and productivity. To do that, they use highly productive tools, automate mundane and manual steps, and iterate in small increments through automated testing and continuous integration.
+
+Deliver
+Delivery is the process of deploying applications into production environments in a consistent and reliable way. The deliver phase also includes deploying and configuring the fully governed foundational infrastructure that makes up those environments.
+
+In the deliver phase, teams define a release management process with clear manual approval stages. They also set automated gates that move applications between stages until they’re made available to customers. Automating these processes makes them scalable, repeatable, controlled. This way, teams who practice DevOps can deliver frequently with ease, confidence, and peace of mind.
+
+Operate
+The operate phase involves maintaining, monitoring, and troubleshooting applications in production environments. In adopting DevOps practices, teams work to ensure system reliability, high availability, and aim for zero downtime while reinforcing security and governance. DevOps teams seek to identify issues before they affect the customer experience and mitigate issues quickly when they do occur. Maintaining this vigilance requires rich telemetry, actionable alerting, and full visibility into applications and the underlying system.
+
+DevOps culture
+While adopting DevOps practices automates and optimizes processes through technology, it all starts with the culture inside the organization—and the people who play a part in it. The challenge of cultivating a DevOps culture requires deep changes in the way people work and collaborate. But when organizations commit to a DevOps culture, they can create the environment for high-performing teams to develop.
+
+
+Collaboration, visibility, and alignment
+One hallmark of a healthy DevOps culture is collaboration between teams, which starts with visibility. Different teams such as development and IT operations must share their DevOps processes, priorities, and concerns with each other. These teams must also plan work together as well as align on goals and measures of success as they relate to the business.
+
+
+Shifts in scope and accountability
+As teams align, they take ownership and become involved in additional lifecycle phases—not just the ones central to their roles. For example, developers become accountable not only to the innovation and quality established in the develop phase, but also to the performance and stability their changes bring in the operate phase. At the same time, IT operators are sure to include governance, security, and compliance in the plan and develop phase.
+
+
+Shorter release cycles
+DevOps teams remain agile by releasing software in short cycles. Shorter release cycles make planning and risk management easier since progress is incremental, which also reduces the impact on system stability. Shortening the release cycle also allows organizations to adapt and react to evolving customer needs and competitive pressure.
+
+
+Continuous learning
+High-performing DevOps teams establish a growth mindset. They fail fast and incorporate learnings into their processes, continually improving, increasing customer satisfaction, and accelerating innovation and market adaptability. DevOps is a journey, so there is always room to grow.
+
+See how teams across Microsoft adopted a DevOps culture
+Learn more
+DevOps practices
+Beyond establishing a DevOps culture, teams bring DevOps to life by implementing certain practices throughout the application lifecycle. Some of these practices help accelerate, automate, and improve a specific phase. Others span several phases, helping teams create seamless processes that help improve productivity.
+
+Continuous integration and continuous delivery (CI/CD)
+Version Control
+Agile software development
+Infrastructure as code
+Configuration management
+Continuous monitoring
+Continuous integration and continuous delivery (CI/CD)
+Configuration management refers to managing the state of resources in a system including servers, virtual machines, and databases. Using configuration management tools, teams can roll out changes in a controlled, systematic way, reducing the risks of modifying system configuration. Teams use configuration management tools to track system state and help avoid configuration drift, which is how a system resource’s configuration deviates over time from the desired state defined for it.
+
+Practiced in conjunction with infrastructure as code, both system definition and configuration are easy to templatize and automate, helping teams operate complex environments at scale.
+
+Back to Tabs
+DevOps tools
+Teams have many DevOps tools to help them facilitate a DevOps culture in their organization. Most teams rely on several tools, building custom toolchains that fit their needs for each phase in the application lifecycle. While adopting a specific tool or technology is not the same as adopting DevOps, when the DevOps culture is present and the processes are defined, people can implement and streamline DevOps practices if they choose the proper tools. Get the tools to put DevOps into practice:
+
+Explore DevOps solutions
+
+DevOps and the cloud
+Cloud adoption has fundamentally transformed the way teams are building, deploying, and operating applications. Together with the adoption of DevOps, teams now have greater opportunity to improve their practices and better serve their customers better.
+
+
+Cloud agility
+With the ability to quickly provision and configure multi-region cloud environments with unlimited resources, teams gain agility in deploying their apps. Now, instead of having to buy, configure, and maintain physical servers, teams create complex cloud environments in minutes, then shut them down when they’re no longer needed.
+
+Learn more about cloud computing
+
+Kubernetes
+As more and more applications use container technology, Kubernetes is becoming the industry solution for orchestrating containers at scale. Automating the processes of building and deploying containers via CI/CD pipelines and monitoring these containers in production are becoming essential practices in the age of Kubernetes.
+
+Learn more about Kubernetes
+
+Serverless computing
+With most of the overhead of managing infrastructure moved to the cloud provider, teams can focus on their apps rather than the underlying infrastructure. Serverless computing offers the ability to run applications without configuring and maintaining servers. Some options reduce the complexity and risk of deployment and operations.
+
+Learn more about serverless computing
+Start your DevOps journey
+With all the various practices and solutions available, DevOps can seem overwhelming at first. The key is to start small and learn from others.
+
+
+Evolve your DevOps practices
+
+Explore DevOps solutions
+
+Do DevOps in the cloud with an Azure free account
+Frequently asked questions
+Expand all
+|
+Collapse all
+What teams should take part in the adoption of DevOps?
+Is DevOps a job title?
+How can a large organization adopt DevOps?
+How does DevOps help drive business results?
+What is the relationship between DevOps and Agile?
+What is the difference between continuous delivery and continuous deployment?
+Where can I learn more about getting started with DevOps?
+Additional Navigation
+Get the Azure mobile app
+Explore Azure
+What is Azure?
+Get started
+Global infrastructure
+Datacenter regions
+Trust your cloud
+Customer enablement
+Customer stories
+Products and pricing
+Products
+Pricing
+Free Azure services
+Flexible purchase options
+Cloud economics
+Optimize your costs
+Solutions and support
+Solutions
+Resources for accelerating growth
+Solution architectures
+Support
+Azure demo and live Q&A
+Partners
+Azure Marketplace
+Find a partner
+Technology partners
+Resources
+Training and certifications
+Documentation
+Blog
+Developer resources
+Students
+Events and webinars
+Analyst reports, white papers, and e-books
+Videos
+Cloud computing
+What is cloud computing?
+What is cloud migration?
+What is a hybrid cloud?
+What is AI?
+What is IaaS?
+What is SaaS?
+What is PaaS?
+What is DevOps?
+Change language
+
+English (US)
+Your Privacy Choices
