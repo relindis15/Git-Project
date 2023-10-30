@@ -91,9 +91,6 @@ As more and more applications use container technology, Kubernetes is becoming t
 
 Learn more about Kubernetes
 
-Serverless computing
-With most of the overhead of managing infrastructure moved to the cloud provider, teams can focus on their apps rather than the underlying infrastructure. Serverless computing offers the ability to run applications without configuring and maintaining servers. Some options reduce the complexity and risk of deployment and operations.
-
 Learn more about serverless computing
 Start your DevOps journey
 With all the various practices and solutions available, DevOps can seem overwhelming at first. The key is to start small and learn from others.
