@@ -6,7 +6,7 @@ What does DevOps mean for teams? DevOps enables formerly siloed roles—developm
 The benefits of DevOps
 Teams that adopt DevOps culture, practices, and tools become high-performing, building better products faster for greater customer satisfaction. This improved collaboration and productivity is also integral to achieving business goals like these:
 
-
+lets commit this project 
 Accelerating time to market
 
 
